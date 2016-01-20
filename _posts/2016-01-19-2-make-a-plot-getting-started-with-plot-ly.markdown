@@ -12,4 +12,4 @@ layout: post
     * manipulate the look and feel of the plot
     * 
 
-![](http://i.imgur.com/CDqx3Dc.gifv)
+![](http://i.imgur.com/CDqx3Dc.gif)
