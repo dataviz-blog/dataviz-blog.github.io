@@ -18,4 +18,4 @@ Below are headings and gifs that provide a tour of the plot.ly web interface
 
 ####  Start Plotting
 
-![](http://i.imgur.com/Xq8vADe.gif)
+![](https://drive.google.com/open?id=0BxRaecm6LtPWMmpLbUU4RWtBSWM)
