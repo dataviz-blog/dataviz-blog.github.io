@@ -18,4 +18,4 @@ Take this link from my personal plot.ly account.
 
 Make sure to Copy and Edit and save to your own account.
 
-![]
+![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/get_data.gif)
