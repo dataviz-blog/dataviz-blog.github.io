@@ -19,3 +19,44 @@ Below are headings and gifs that provide a tour of the plot.ly web interface
 ####  Start Plotting
 
 ![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/_posts/plotly_tour_start_plotting.gif)
+
+
+#### New Spreadsheet
+
+![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/_posts/new_spreadsheet.gif)
+
+
+#### Paste Data (from Excel or Google Sheet etc)
+
+![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/_posts/paste_data.gif)
+
+
+#### Save Data
+
+* Once saved, the spreadsheet can be retrieved later or easily shared.
+
+![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/_posts/save_data.gif)
+
+
+#### Choose Plot type
+
+![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/_posts/choose_plottype.gif)
+
+
+#### Select Data (for the plot)
+
+* Plot.ly thinks in terms of columns.  A variable or axis (x or y etc) is a column.
+
+![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/_posts/select_data.gif)
+
+
+#### Make the Plot
+
+![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/_posts/make_plot.gif)
+
+
+#### Edit the Plot
+
+* There are a number of ways in which the plot can be manipulated.  They are all located in the left side menu bar
+
+![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/_posts/edit_plot.gif)
