@@ -9,7 +9,13 @@ layout: post
 * Use its web interface to 
     * load data
     * select data for a plot
-    * manipulate the look and feel of the plot
-    * 
+    * manipulate the look and feel of the plot  
 
-![](http://i.imgur.com/CDqx3Dc.gif)
+Below are headings and gifs that provide a tour of the plot.ly web interface
+
+
+## Tour of Plot.ly
+
+####  Start Plotting
+
+![](http://i.imgur.com/Xq8vADe.gif)
