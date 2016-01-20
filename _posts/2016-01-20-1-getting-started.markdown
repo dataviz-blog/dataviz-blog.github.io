@@ -8,7 +8,8 @@ layout: post
 1. [GitHub](https://github.com "Click to sign up") account — where our blog will live.
    * Requires email
 2. [Plot.ly](https://plot.ly/ "Click to sign up") account — where our visualisations will come from.
-   * Requires email / social media account
+   * Sign up with your GitHub account
+   * otherwise, requires email / social media account
    
    
 
