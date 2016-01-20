@@ -25,6 +25,7 @@ Below are headings and gifs that provide a tour of the plot.ly web interface
 
   
 ---
+
 ### New Spreadsheet
 
 ![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/new_spreadsheet.gif)
@@ -33,6 +34,7 @@ Below are headings and gifs that provide a tour of the plot.ly web interface
 
 
 ---
+
 ### Paste Data (from Excel or Google Sheet etc)
 
 ![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/paste_data.gif)
@@ -41,6 +43,7 @@ Below are headings and gifs that provide a tour of the plot.ly web interface
 
 
 ---
+
 ### Save Data
 
 * Once saved, the spreadsheet can be retrieved later or easily shared.
@@ -51,6 +54,7 @@ Below are headings and gifs that provide a tour of the plot.ly web interface
 
 
 ---
+
 ### Choose Plot type
 
 ![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/choose_plottype.gif)
@@ -59,6 +63,7 @@ Below are headings and gifs that provide a tour of the plot.ly web interface
 
 
 ---
+
 ### Select Data (for the plot)
 
 * Plot.ly thinks in terms of columns.  A variable or axis (x or y etc) is a column.
@@ -69,6 +74,7 @@ Below are headings and gifs that provide a tour of the plot.ly web interface
 
 
 ---
+
 ### Make the Plot
 
 ![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/make_plot.gif)
@@ -77,6 +83,7 @@ Below are headings and gifs that provide a tour of the plot.ly web interface
 
 
 ---
+
 ### Edit the Plot
 
 * There are a number of ways in which the plot can be manipulated.  They are all located in the left side menu bar
