@@ -16,6 +16,7 @@ Below are headings and gifs that provide a tour of the plot.ly web interface
 
 ## Tour of Plot.ly
 
+You should be looking at me (Errol), but if you missed me or I'm insufferable, the essentials are demonstrated below.
 
 
 ###  Start Plotting
