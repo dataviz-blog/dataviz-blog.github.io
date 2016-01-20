@@ -6,7 +6,7 @@ layout: post
 ## Intro to Plot.ly
 
 * Plot.ly is the tool we will use to make our interactive visualisations.
-* Use it's web interface to 
+* Use its web interface to 
     * load data
     * select data for a plot
     * manipulate the look and feel of the plot
