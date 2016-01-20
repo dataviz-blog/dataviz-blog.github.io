@@ -14,4 +14,4 @@ layout: post
 
 ![](http://i.imgur.com/OUkLi.gif)
 
-![](./screen_cap_test.gif)
+![](https://github.com/dataviz-blog/dataviz-blog.github.io/blob/master/_posts/screen_cap_test.gif)
