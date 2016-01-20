@@ -18,4 +18,4 @@ Below are headings and gifs that provide a tour of the plot.ly web interface
 
 ####  Start Plotting
 
-![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/_posts/screen_cap_test.gif)
+![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/_posts/plotly_tour_start_plotting.gif)
