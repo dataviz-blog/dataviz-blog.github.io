@@ -14,4 +14,4 @@ layout: post
 
 ![](http://i.imgur.com/OUkLi.gif)
 
-![](/screen_cap_test.gif)
+![](./screen_cap_test.gif)
