@@ -23,8 +23,8 @@ Below are headings and gifs that provide a tour of the plot.ly web interface
 ![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/plotly_tour_start_plotting.gif)
 
 
-
-
+  
+  
 ### New Spreadsheet
 
 ![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/new_spreadsheet.gif)
