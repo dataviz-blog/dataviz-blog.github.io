@@ -42,6 +42,7 @@ You should be looking at me (Errol), but if you missed me or I'm insufferable, t
 
 ### Paste Data (from Excel or Google Sheet etc)
 
+* ctrl + c and ctrl + v ...
 ![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/paste_data.gif)
 
 
