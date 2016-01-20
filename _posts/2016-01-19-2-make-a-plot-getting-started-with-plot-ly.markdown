@@ -12,6 +12,4 @@ layout: post
     * manipulate the look and feel of the plot
     * 
 
-![](http://i.imgur.com/OUkLi.gif)
-
-![](https://github.com/dataviz-blog/dataviz-blog.github.io/blob/master/_posts/screen_cap_test.gif)
+![](http://i.imgur.com/CDqx3Dc.gifv)
