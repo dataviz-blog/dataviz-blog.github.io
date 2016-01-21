@@ -30,13 +30,20 @@ Make sure to Copy and Edit and save to your own account.
 * Then for each of the decades, these monthly averages were themselves averaged.
 
 
-
+---
 ## Make a Plot
 
 ![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/make_first_plot.gif)
 
 
-
+---
 ## Style the Plot
 
 ![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/style_first_plot.gif)
+
+
+
+---
+## Save and get link for Blog Post
+
+![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/save_iframe_first_plot.gif)
