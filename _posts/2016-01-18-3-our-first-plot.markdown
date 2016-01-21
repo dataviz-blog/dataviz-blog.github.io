@@ -39,4 +39,4 @@ Make sure to Copy and Edit and save to your own account.
 
 ## Style the Plot
 
-hopefully this is real ... again ... and again and again ... and again again, againagain
+![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/style_first_plot.gif)
