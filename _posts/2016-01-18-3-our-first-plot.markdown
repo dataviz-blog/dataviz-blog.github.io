@@ -19,3 +19,22 @@ Take this link from my personal plot.ly account.
 Make sure to Copy and Edit and save to your own account.
 
 ![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/get_data.gif)
+
+
+
+
+#### Notes about the data
+
+* Sourced from the [Bureau of Meterology](http://www.bom.gov.au).
+* For each month, daily maximums were averaged.
+* Then for each of the decades, these monthly averages were themselves averaged.
+
+
+
+## Make a Plot
+
+![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/make_first_plot.gif)
+
+
+
+## Style the Plot
