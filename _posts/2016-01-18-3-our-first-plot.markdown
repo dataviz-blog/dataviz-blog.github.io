@@ -31,12 +31,14 @@ Make sure to Copy and Edit and save to your own account.
 
 
 ---
+
 ## Make a Plot
 
 ![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/make_first_plot.gif)
 
 
 ---
+
 ## Style the Plot
 
 ![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/style_first_plot.gif)
@@ -44,6 +46,7 @@ Make sure to Copy and Edit and save to your own account.
 
 
 ---
+
 ## Save and get link for Blog Post
 
 ![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/save_iframe_first_plot.gif)
