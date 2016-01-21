@@ -26,7 +26,7 @@ Make sure to Copy and Edit and save to your own account.
 #### Notes about the data
 
 * Sourced from the [Bureau of Meterology](http://www.bom.gov.au).
-* For each month, daily maximums were averaged.
+* For each month, daily maximum temperatures were averaged.
 * Then for each of the decades, these monthly averages were themselves averaged.
 
 
