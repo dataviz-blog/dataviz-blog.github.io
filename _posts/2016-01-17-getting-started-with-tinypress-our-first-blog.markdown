@@ -1,6 +1,6 @@
 ---
 published: true
-title: Getting Started with TinyPress (Our first blog)
+title: 4 — Getting Started with TinyPress (Our first blog)
 layout: post
 ---
 We will build our blog on GitHub with TinyPress, which takes care of all the fuss for us.
