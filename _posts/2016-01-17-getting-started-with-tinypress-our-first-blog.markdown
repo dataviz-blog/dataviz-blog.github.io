@@ -15,4 +15,4 @@ If you have a GitHub account take the link below and follow the prompts to start
 
 
 
-![](_
+![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/start_tinypress2_comp.gif)
