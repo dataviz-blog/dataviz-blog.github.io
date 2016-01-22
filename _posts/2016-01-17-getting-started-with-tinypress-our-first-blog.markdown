@@ -13,7 +13,7 @@ We're going to do three things here:
 
 
 
-## Build our Blog
+## 1. Build our Blog
 
 If you have a GitHub account take the link below and follow the prompts to start your blog.
 
@@ -31,7 +31,7 @@ If you have a GitHub account take the link below and follow the prompts to start
 
 ---
 
-## Make our First Post
+## 2. Make our First Post
 
 ![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/tinypress_first_post.gif)
 
@@ -40,7 +40,7 @@ If you have a GitHub account take the link below and follow the prompts to start
 
 ---
 
-## Embed our First Plot !!
+## 3. Embed our First Plot !!
 
 ![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/tinypress_get_iframe.gif)
 
