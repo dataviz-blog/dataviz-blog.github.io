@@ -6,6 +6,7 @@ layout: post
 We will build our blog on GitHub with TinyPress, which takes care of all the fuss for us.
 
 We're going to do three things here:
+
 1. Build our blog
 2. Make our first post
 3. Embed our first plot in our first post
