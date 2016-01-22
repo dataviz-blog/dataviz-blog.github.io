@@ -10,6 +10,12 @@ Your first plot get's things started.  Start a new post, embed it and write abou
 
 Here's a bigger more complex data set:
 
-[https://plot.ly/35/~maegul/](https://plot.ly/35/~maegul/)
+<a href="https://plot.ly/~maegul/35/" target="_blank">https://plot.ly/~maegul/35/</a>
 
-Copy it to 
+Copy it to your own plot.ly account.
+
+
+
+Another data set worth looking at:
+
+<a href="https://plot.ly/~maegul/57/" target="_blank">https://plot.ly/~maegul/57/</a>
