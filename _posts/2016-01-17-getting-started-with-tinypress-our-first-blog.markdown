@@ -32,7 +32,7 @@ If you have a GitHub account take the link below and follow the prompts to start
 
 ## Make our First Post
 
-![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/stinypress_first_post.gif)
+![](https://raw.githubusercontent.com/dataviz-blog/dataviz-blog.github.io/master/gifs/tinypress_first_post.gif)
 
 
 
@@ -45,4 +45,3 @@ If you have a GitHub account take the link below and follow the prompts to start
 
 * The iframe code we copy and paste makes a window in our post onto our plotly plot
 * Note that the *width* and *height* parameters can be changed to suit your post and plot.
-
