@@ -17,7 +17,9 @@ We're going to do three things here:
 
 If you have a GitHub account take the link below and follow the prompts to start your blog.
 
-[tinypress.co](tinypress.co)
+[tinypress.co](https://tinypress.co)
+
+<a href='http://tinypress.co' target='_blank'>tinypress.co</a>
 
 * TinyPress will use your GitHub account to build your blog.
 * You must give permission to TinyPress to access your GitHub content.
