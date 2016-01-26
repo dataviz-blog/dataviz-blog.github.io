@@ -11,11 +11,19 @@ layout: post
    * Sign up with your GitHub account
    * otherwise, requires email / social media account
    
-   
-
 
 #### Notes on GitHub
 
 * If you have a GitHub account already and have an Organization page (http://[username].github.io), the blog we make later won't work.  You will need to start a new GitHub account (which can be linked to the same email).
     * If your page is a project page — made by creating a 'gh-pages' fork of a repository, don't worry, your current account should be fine.
 * If you didn't understand the above, no worries!  Web empowerment awaits.  Just set up an account and all will be well.
+
+
+
+
+## Broad Structure
+
+1. Sign up to necessary accounts
+2. Follow along with me in getting your first blog post up
+3. Have a shot yourself
+4. Closing remarks
