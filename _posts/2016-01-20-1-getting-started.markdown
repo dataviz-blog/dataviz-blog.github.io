@@ -26,4 +26,4 @@ layout: post
 1. Sign up to necessary accounts
 2. Follow along with me in getting your first blog post up
 3. Have a shot yourself
-4. Closing remarks
+4. Future direction, alternatives, closing remarks
