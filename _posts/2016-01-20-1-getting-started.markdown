@@ -23,7 +23,7 @@ layout: post
 
 ## Broad Structure
 
-1. Sign up to necessary accounts
-2. Follow along with me in getting your first blog post up
-3. Have a shot yourself
-4. Future direction, alternatives, closing remarks
+1. Sign up to necessary accounts *(up to ~10mins)*
+2. Follow along with me in getting your first blog post up *(up to ~60mins)*
+3. Have a shot yourself *(up to ~80mins)*
+4. Future direction, alternatives, closing remarks *(up to end)*
