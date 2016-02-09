@@ -1,0 +1,9 @@
+---
+published: true
+title: Credits
+layout: post
+---
+Made by Errol Lloyd.
+
+Twitter: @maegul
+Email: errolkjlloyd@gmail.com
