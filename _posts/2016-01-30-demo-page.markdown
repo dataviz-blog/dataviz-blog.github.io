@@ -5,9 +5,9 @@ layout: post
 ---
 ## My Plot.ly Plot
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~maegul/138.embed"></iframe>
+<iframe width="700" height="650" frameborder="0" scrolling="no" src="https://plot.ly/~maegul/138.embed"></iframe>
 
 
 ## Same in 3D
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~maegul/140.embed"></iframe>
+<iframe width="700" height="650" frameborder="0" scrolling="no" src="https://plot.ly/~maegul/140.embed"></iframe>
